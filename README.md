@@ -3,6 +3,9 @@ yactionlint
 [![CI Status][ci-badge]][ci]
 [![API Document][apidoc-badge]][apidoc]
 
+> **This project has moved to [jactionlint](https://github.com/jdx/jactionlint).**
+> Please use the new repository for the latest code, releases, and documentation.
+
 [yactionlint][repo] is a static checker for GitHub Actions workflow files. This repository is a fork of [rhysd/actionlint][upstream]. [Try the yactionlint playground online!][playground]
 
 Features:
